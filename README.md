@@ -1,11 +1,11 @@
 ## Hello! I'm a beginner Software Engineer and Back-end Developer
 ## Languages and Tools
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=yellow)
+![Spring](https://img.shields.io/badge/Spring-090909?style=for-the-badge&logo=Spring&logoColor=green)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=blue)
 ![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart&logoColor=purple)
-![Spring](https://img.shields.io/badge/Spring-090909?style=for-the-badge&logo=Spring&logoColor=green)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=Cplusplus&logoColor=green)
-![C#](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=Cplusplus&logoColor=green)
+![C#](https://img.shields.io/badge/Csharp-090909?style=for-the-badge&logo=Cplusplus&logoColor=green)
 
 ## Follow me 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=red)](https://t.me/yerzatmeirambekuly)
